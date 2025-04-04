@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.button-container {
+    margin-bottom: 10px;
+    display: flex;
+    gap: 10px;
+}
+
+.react-flow-wrapper {
+    width: 90vw;
+    height: 80vh;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    background: white;
+}
+
+.custom-button {
+    padding: 10px 15px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.custom-button:hover {
+  background: #0056b3;
+}
+  
