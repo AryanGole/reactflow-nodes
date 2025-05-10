@@ -13,8 +13,8 @@ This project is a survey builder using React Flow that allows users to dynamical
 ## Installation & Setup
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/react-flow-survey.git
-   cd react-flow-survey
+   git clone https://github.com/AryanGole/reactflow-nodes.git
+   cd reactflow-nodes
    ```
 
 2. **Install Dependencies:**
